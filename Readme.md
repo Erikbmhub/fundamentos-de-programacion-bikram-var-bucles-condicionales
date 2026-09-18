@@ -64,7 +64,7 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 - [ ] 18.- Crear variable **seisNoEsNueve** cuyo valor sea la comparación booleana **6 no es estrictamente igual que 9**
 
 
-- [ ] 19.- Crear variable **booleanoMix2** cuyo valor sea la comparación booleana **variableValorNumerico positivo (0 no incluido) o menor que -(MiNumeroFav * TAU)**
+- [ ] 19.- Crear variable **boleanoMix2** cuyo valor sea la comparación booleana **variableValorNumerico positivo (0 no incluido) o menor que -(MiNumeroFav * TAU)**
 
 ### Operadores ###
 
